@@ -4,3 +4,6 @@
 
 - 이 저장소를 자신의 저장소로 fork하여 프로젝트를 진행합니다
 
+![step1.drawio](~@source/.FlowChart/step1.drawio.PNG)
+
+![step2.drawio](./FlowChart/step2.drawio.PNG)
